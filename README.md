@@ -6,6 +6,6 @@
 <h1 align="center"> Tabuada </h1>
 
 <p align="center">
-  <img alt="tabuada" src=".github/preview.png" width="100%">
+  <img alt="tabuada" src=".github/tab.png" width="100%">
 </p>
 
