@@ -5,3 +5,7 @@
 
 <h1 align="center"> Tabuada </h1>
 
+<p align="center">
+  <img alt="tabuada" src=".github/preview.jpg" width="100%">
+</p>
+
